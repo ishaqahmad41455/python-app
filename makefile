@@ -1,4 +1,5 @@
 # Used by `image`, `push` & `deploy` targets, override as required
+#this is deployed by ishaq
 IMAGE_REG ?= docker.io
 IMAGE_REPO ?= ishaqahmad41455/my-python-app
 IMAGE_TAG ?= latest
